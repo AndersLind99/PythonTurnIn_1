@@ -1,0 +1,6 @@
+1650235864813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE6WCh5"
+Unable to init server: Broadway display type not supported: host.docker.internal:0
+Error: cannot open display: host.docker.internal:0
+1650235962830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej7k1X1"
+Unable to init server: Broadway display type not supported: host.docker.internal:0
+Error: cannot open display: host.docker.internal:0
